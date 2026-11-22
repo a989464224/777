@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="not_playing">未播放</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="prev">上一首</string>
+    <string name="next">下一首</string>
+    <string name="unknown_title">未知歌曲</string>
+    <string name="unknown_artist">未知歌手</string>
+    <string name="permission_denied">未授予读取音乐权限，无法加载音乐列表</string>
+    <string name="no_music">未找到音乐文件，请先拷贝音乐到设备</string>
+</resources>
